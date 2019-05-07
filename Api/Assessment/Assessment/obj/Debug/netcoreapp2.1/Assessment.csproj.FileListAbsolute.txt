@@ -1,0 +1,14 @@
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.deps.json
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.json
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.dev.json
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.dll
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.pdb
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csprojAssemblyReference.cache
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csproj.CoreCompileInputs.cache
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.RazorAssemblyInfo.cache
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.RazorAssemblyInfo.cs
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfoInputs.cache
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfo.cs
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.RazorTargetAssemblyInfo.cache
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.dll
+C:\Ather\ather13\StudentAssessment\Api\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.pdb
